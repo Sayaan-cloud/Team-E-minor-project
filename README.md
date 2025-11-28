@@ -71,23 +71,30 @@ Despite these, we extracted all 15 Mahindra cars available.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo-url
-2. **Navigate to the project folder:**
-
-  ```bash
-  cd your-folder
-```
+     git clone https://github.com/your-repo-url
+    ```
+3.  **Navigate to the project folder:**
+    ```bash
+    cd your-folder
+    ```
 3. **Open the notebook:**
-
-```bash
-  jupyter notebook
-```
+    ```bash
+    jupyter notebook
+    ```
 4.**Run all cells to scrape, clean, and export the dataset.**
+   
 
 ---
 
 ## 👥 Team Members
-Priyanshu Prakash Sharma
+1. Sai Surya
+2. Aastha Das
+3. Priyanshu Prakash Sharma
+4. Hima Sajeesh Kumar
+5. Vansh Bharadwaj
+6. T J John
+7. Vivek Salimath
+
 
 ---
 ## 📄 License
